@@ -1,0 +1,124 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Domine', serif;
+}
+
+h1 {
+    margin: 50px;
+    font-family: 'Bungee Shade', cursive;
+    font-size: 75px;
+    color: white;
+}
+
+h2 {
+    font-family: 'Suwannaphum', serif;
+    font-size: 30px;
+    color: white;
+}
+
+h3 {
+    font-family: 'Suwannaphum', serif;
+    font-size: 40px;
+    color: #FF7B54;
+}
+
+h4 {
+    font-family: 'Suwannaphum', serif;
+    font-size: 30px;
+    color: #7c8952;
+}
+
+.meetingroom {
+    margin: 30px;
+    margin-bottom: 10px;
+    width: 500px;
+    height: 300px;
+}
+
+.profile-image {
+    width: 200px;
+    height: 200px;
+    margin-top: 50px;
+}
+
+.marketer {
+    width: 250px;
+    height: 250px;
+}
+
+.management {
+    width: 250px;
+    height: 250px;
+}
+
+.top-container {
+    background-color: #FF7B54;
+    position: relative;
+    padding-top: 100px;
+}
+
+
+.middle-container {
+    background-color: #faebc4;
+}
+
+.bottom-container {
+    background-color: #9CA777;
+}
+
+.idea {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    width: 150px;
+    height: 150px;
+}
+
+.be-creative {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+    width: 150px;
+    height: 150px;
+}
+
+.linkedin {
+    width: 50px;
+    height: 50px;
+    margin: 20px;
+    margin-bottom: 5px;
+}
+
+.facebook {
+    width: 50px;
+    height: 50px;
+    margin: 20px;
+    margin-bottom: 5px;
+}
+
+.instagram {
+    width: 50px;
+    height: 50px;
+    margin: 20px;
+    margin-bottom: 5px;
+}
+
+.footer-link {
+    margin: 15px;
+}
+
+hr.style14 { 
+    border: 0; 
+    height: 1px; 
+    background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+    background-image: -moz-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+    background-image: -ms-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+    background-image: -o-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0); 
+  }
+
+  .email {
+    width: 125px;
+    height: 100px;
+    margin-bottom: 0px;
+  }
